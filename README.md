@@ -1,6 +1,6 @@
 # xiawenqiang/ spring-framework
 
-ps:学习spring最好是去spring.io看官方文档
+ps:学习spring1.是看源码里面的单元测试，开发人员将spring拆解的精华都在里面，2.是去spring.io看官方文档,官方文档将主要特性都描述了
 
 spring5x项目源码
 
