@@ -1,5 +1,7 @@
 # xiawenqiang/ spring-framework
 
+ps:学习spring最好是去spring.io看官方文档
+
 spring5x项目源码
 
 java1.8 + gradle6.4(可以选择任意版本，保证支持jdk1.8即可) + idea
